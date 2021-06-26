@@ -1,3 +1,1 @@
-I am learning Git. To learn Git, I saved this file.  
-
-Ok, Remove this content.  Post your codings.  
+Hi Hello Hi Hello
